@@ -8,6 +8,7 @@ The Vision Transformer (ViT) excels at discerning semantic relationships in imag
 
 ## How to Use
 1. **Preparation**: Before running the code, make sure you've prepared the necessary datasets and modified the configuration files accordingly.
+We are running in the Swin_ViT framework, please just configure your environment according to the instructions in Swin-ViT, our extra modules just need to install pytorch_wavelets.（https://pytorch-wavelets.readthedocs.io/en/latest/readme.html）
 2. **Training**:
 python train.py 
 
